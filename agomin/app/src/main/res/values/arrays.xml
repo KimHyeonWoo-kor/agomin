@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>말티즈</item>
+        <item>푸들</item>
+        <item>포메</item>
+        <item>시츄</item>
+        <item>비숑</item>
+        <item>요크셔</item>
+        <item>치와와</item>
+        <item>스피츠</item>
+        <item>믹스</item>
+        <item>기타</item>
+
+    </string-array>
+</resources>
