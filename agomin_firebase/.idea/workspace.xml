@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4143507f-6c24-4609-aa93-d3c8f842a776" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hLyaRrpZF7zAZH5biPG2PZQ7jC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\android\app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\android\app" />
+      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\lib" />
+      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\android" />
+      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4143507f-6c24-4609-aa93-d3c8f842a776" name="Default Changelist" comment="" />
+      <created>1599804729504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599804729504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="637" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600337978858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600337978858" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600152237978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600152237978" />
+    <state width="936" height="279" key="GridCell.Tab.0.bottom" timestamp="1600488658990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658990" />
+    <state width="936" height="279" key="GridCell.Tab.0.center" timestamp="1600488658990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658990" />
+    <state width="936" height="279" key="GridCell.Tab.0.left" timestamp="1600488658989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658989" />
+    <state width="936" height="279" key="GridCell.Tab.0.right" timestamp="1600488658990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658990" />
+    <state x="247" y="136" key="SettingsEditor" timestamp="1600148186278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="247" y="136" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600148186278" />
+    <state x="147" y="100" width="774" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600488756945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="147" y="100" width="774" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600488756945" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1600149322932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600149322932" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600337921224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600337921224" />
+  </component>
+</project>
