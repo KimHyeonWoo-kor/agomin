@@ -36,14 +36,15 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\android\app\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase" />
       <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\android\app" />
       <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\lib" />
       <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\android" />
       <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\0\AndroidStudioProjects\agomin_firebase\android\app\src" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -64,26 +65,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="637" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600337978858" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600152237978">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600673082313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600152237978" />
-    <state width="936" height="279" key="GridCell.Tab.0.bottom" timestamp="1600488658990">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600673082313" />
+    <state width="1340" height="263" key="GridCell.Tab.0.bottom" timestamp="1600681599319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658990" />
-    <state width="936" height="279" key="GridCell.Tab.0.center" timestamp="1600488658990">
+    <state width="1340" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600681599319" />
+    <state width="1340" height="263" key="GridCell.Tab.0.center" timestamp="1600681599319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658990" />
-    <state width="936" height="279" key="GridCell.Tab.0.left" timestamp="1600488658989">
+    <state width="1340" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600681599319" />
+    <state width="1340" height="263" key="GridCell.Tab.0.left" timestamp="1600681599319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658989" />
-    <state width="936" height="279" key="GridCell.Tab.0.right" timestamp="1600488658990">
+    <state width="1340" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600681599319" />
+    <state width="1340" height="263" key="GridCell.Tab.0.right" timestamp="1600681599319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600488658990" />
+    <state width="1340" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600681599319" />
     <state x="247" y="136" key="SettingsEditor" timestamp="1600148186278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

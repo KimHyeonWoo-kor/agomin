@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565373558093",
+    "firebase_url": "https://agomin-d6a30.firebaseio.com",
+    "project_id": "agomin-d6a30",
+    "storage_bucket": "agomin-d6a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565373558093:android:da8f6ba0e7f663dd34eb04",
+        "android_client_info": {
+          "package_name": "com.example.agomin_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565373558093-bie14lkcfpdmkonjm7v2r8o083mgcnt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34r6RmX7E20uYM-lDQxKPmFtut0xZYvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565373558093-bie14lkcfpdmkonjm7v2r8o083mgcnt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
